@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.andrea_murillo.involucrate.app-mergeDebugResources-47:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\34641\\.gradle\\caches\\8.11.1\\transforms\\cf65166c3148bb32b7645dd7fd18ebbb\\transformed\\core-1.10.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\34641\\.gradle\\caches\\8.11.1\\transforms\\94eaa93c122c36679db043a4de091d7b\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}

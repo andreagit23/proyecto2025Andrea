@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-mergeDebugResources-48:\\layout\\item_producto_compra.xml",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\item_producto_compra.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-mergeDebugResources-48:\\layout\\fragment_detalle_producto_venta.xml",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\fragment_detalle_producto_venta.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-mergeDebugResources-48:\\layout\\fragment_monedero.xml",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\fragment_monedero.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-mergeDebugResources-48:\\layout\\fragment_ventas.xml",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\fragment_ventas.xml"
+    },
+    {
+        "merged": "com.andrea_murillo.involucrate.app-mergeDebugResources-48:/layout/fragment_detalle_pedido.xml",
+        "source": "com.andrea_murillo.involucrate.app-main-51:/layout/fragment_detalle_pedido.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-mergeDebugResources-48:\\layout\\fragment_nuestra_informacion.xml",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\fragment_nuestra_informacion.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-mergeDebugResources-48:\\layout\\fragment_registro.xml",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\fragment_registro.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-mergeDebugResources-48:\\layout\\item_ong.xml",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\item_ong.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-mergeDebugResources-48:\\layout\\fragment_edit_usuario.xml",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\fragment_edit_usuario.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-mergeDebugResources-48:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-mergeDebugResources-48:\\layout\\item_pedido.xml",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\item_pedido.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-mergeDebugResources-48:\\layout\\item_producto.xml",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\item_producto.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-mergeDebugResources-48:\\layout\\fragment_transaccion.xml",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\fragment_transaccion.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-mergeDebugResources-48:\\layout\\fragment_detalle_producto_compra.xml",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\fragment_detalle_producto_compra.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-mergeDebugResources-48:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-mergeDebugResources-48:\\layout\\fragment_login.xml",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-mergeDebugResources-48:\\layout\\fragment_compras.xml",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\fragment_compras.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-mergeDebugResources-48:\\layout\\fragment_detalle_ong.xml",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\fragment_detalle_ong.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-mergeDebugResources-48:\\layout\\fragment_detalle_pedido.xml",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\fragment_detalle_pedido.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-mergeDebugResources-48:\\layout\\fragment_ong.xml",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\fragment_ong.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-mergeDebugResources-48:\\layout\\fragment_mis_pedidos.xml",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\fragment_mis_pedidos.xml"
+    }
+]

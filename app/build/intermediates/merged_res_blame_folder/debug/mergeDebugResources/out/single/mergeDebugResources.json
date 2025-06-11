@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.andrea_murillo.involucrate.app-debug-49:/xml_network_security_config.xml.flat",
+        "source": "com.andrea_murillo.involucrate.app-main-51:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\drawable_ic_placeholder.png.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\drawable\\ic_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\drawable_ic_placeholder_black.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\drawable\\ic_placeholder_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\layout_fragment_edit_usuario.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\fragment_edit_usuario.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\layout_fragment_login.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\layout_fragment_mis_pedidos.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\fragment_mis_pedidos.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\drawable_ic_pedidos.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\drawable\\ic_pedidos.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\layout_fragment_detalle_pedido.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\fragment_detalle_pedido.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\layout_fragment_ventas.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\fragment_ventas.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\drawable_ic_comprar.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\drawable\\ic_comprar.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\layout_fragment_monedero.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\fragment_monedero.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\drawable_ic_placeholder_white.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\drawable\\ic_placeholder_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\layout_fragment_detalle_ong.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\fragment_detalle_ong.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\drawable_ic_placeholder_pink.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\drawable\\ic_placeholder_pink.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\layout_item_producto.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\item_producto.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\layout_item_ong.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\item_ong.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\drawable_ic_ongs.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\drawable\\ic_ongs.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\layout_fragment_nuestra_informacion.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\fragment_nuestra_informacion.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\layout_fragment_transaccion.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\fragment_transaccion.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\drawable_circle.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\drawable\\circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\drawable_ic_vender.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\drawable\\ic_vender.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\layout_fragment_compras.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\fragment_compras.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\layout_fragment_ong.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\fragment_ong.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\drawable_ic_monedero.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\drawable\\ic_monedero.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\layout_fragment_detalle_producto_venta.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\fragment_detalle_producto_venta.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\drawable_intro.png.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\drawable\\intro.png"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\color_yellow.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\color\\yellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\layout_fragment_detalle_producto_compra.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\fragment_detalle_producto_compra.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\layout_fragment_registro.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\fragment_registro.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\layout_item_producto_compra.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\item_producto_compra.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\drawable_mancha.png.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\drawable\\mancha.png"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\layout_item_pedido.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\layout\\item_pedido.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\drawable_ic_eye.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\drawable\\ic_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\drawable_ic_user.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\drawable\\ic_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-debug-49:\\drawable_ic_edit.xml.flat",
+        "source": "C:\\Users\\34641\\.gradle\\daemon\\8.11.1\\com.andrea_murillo.involucrate.app-main-51:\\drawable\\ic_edit.xml"
+    }
+]

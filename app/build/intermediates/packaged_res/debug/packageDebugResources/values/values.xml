@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tipos_usuario">
+        <item>Usuario</item>
+        <item>ONG</item>
+    </string-array>
+    <color name="amarillo">#F6E634</color>
+    <color name="black">#FF000000</color>
+    <color name="verde">#4BF23E</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="aceptar">Aceptar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="aniadir">Añadir</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="app_name">Involucrate</string>
+    <string name="buscar_producto">Buscar producto</string>
+    <string name="cambiar_contrasenia">Cambiar contraseña</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="canelar">Cancelar</string>
+    <string name="cantidad">"Introduce la cantidad: "</string>
+    <string name="cantidad2">Catidad (€)</string>
+    <string name="categorias">Categorías</string>
+    <string name="categorias_label">"Categorías: "</string>
+    <string name="comprar">Comprar</string>
+    <string name="confirmar_contrasenia">"Confirmar Contraseña"</string>
+    <string name="contrasenia">Contraseña</string>
+    <string name="contrasenia_actual">"Contrseña actual: "</string>
+    <string name="correo_electronico">Correo electrónico</string>
+    <string name="cvc">CVC</string>
+    <string name="descripcion">Descripción</string>
+    <string name="descripcionCompras">"Descripción: "</string>
+    <string name="descripcion_ong">Descripción ONG</string>
+    <string name="detalle_producto">Detalle Producto</string>
+    <string name="dinero">0,00 €</string>
+    <string name="dinero_label">"Saldo disponible: "</string>
+    <string name="direccion">Dirección</string>
+    <string name="direccionLabel">"Dirección: "</string>
+    <string name="direccion_ong">Dirección ONG</string>
+    <string name="dni">DNI</string>
+    <string name="editar">Editar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="estado">Estado</string>
+    <string name="estado_disponible">Estado: </string>
+    <string name="estado_pedido">"Estado del pedido: "</string>
+    <string name="guardar">Guardar Producto</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ingresar_dinero">Ingresar dinero</string>
+    <string name="iniciar_sesion">INICIAR SESIÓN</string>
+    <string name="marcar_como_recibido">Marcar como recibido</string>
+    <string name="mis_pedidos">Mis Pedidos</string>
+    <string name="mis_productos">Mis Productos</string>
+    <string name="mis_ventas">Mis ventas</string>
+    <string name="mm_aa">MM/AA</string>
+    <string name="monedero">Monedero</string>
+    <string name="nombre">Nombre</string>
+    <string name="nombreCompras">"Nombre: "</string>
+    <string name="nombre_ong">Nombre ONG</string>
+    <string name="nuestra_informacion">Nuestra Información</string>
+    <string name="nueva_contrasenia">"Nueva Contraseña: "</string>
+    <string name="numero_tarjeta">Número de tarjeta</string>
+    <string name="obtener_etiqueta">Obtener etiqueta</string>
+    <string name="ong">ONG</string>
+    <string name="ongLabel">"ONG: "</string>
+    <string name="ongs">ONGs</string>
+    <string name="perfil">Perfil</string>
+    <string name="porcentaje_destinado_a_donacion">Porcentaje destinado a donación: </string>
+    <string name="porcentaje_format">0%</string>
+    <string name="precio">Precio</string>
+    <string name="precioCompras">"Precio: "</string>
+    <string name="registrarse">REGISTRARSE</string>
+    <string name="registrate">¿No tienes cuenta? Regístrate</string>
+    <string name="retirar_dinero">Retirar dinero</string>
+    <string name="saludo">¡Hola, Usuario!</string>
+    <string name="seleccionar_imagen">Seleccione una imagen</string>
+    <string name="seleccione_ong">Seleccione la ONG a la que desea destinar la donación que implica esta compra:</string>
+    <string name="tarjeta">Introduce los datos de tu tarjeta: </string>
+    <string name="telefono">Teléfono</string>
+    <string name="telefonoLabel">"Teléfono: "</string>
+    <string name="texto_login1">En nuestra plataforma, cada compra que realizas no solo te acerca a lo que necesitas, sino que también contribuye a un mundo mejor.</string>
+    <string name="texto_login2">Con cada transacción, una parte de tu pago se destina a apoyar diversas ONGs que trabajan incansablemente para hacer del mundo un lugar más justo y solidario.</string>
+    <string name="todas">Todas</string>
+    <string name="usuario">Usuario</string>
+    <string name="vender">Vender</string>
+    <string name="ver_detalle">Ver detalle</string>
+    <string name="volver_a_inicio">VOLVER A INICIO</string>
+    <string name="webLabel">"Web: "</string>
+    <style name="Base.Theme.Involucrate" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="MenuButtonStyle" parent="Widget.MaterialComponents.Button">
+        <item name="android:layout_marginTop">12dp</item>
+        <item name="android:backgroundTint">#FF69B4</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="cornerRadius">32dp</item>
+        <item name="iconTint">#FFFFFF</item>
+        <item name="iconPadding">12dp</item>
+        <item name="android:minHeight">48dp</item>
+    </style>
+    <style name="Theme.Involucrate" parent="Base.Theme.Involucrate"/>
+</resources>

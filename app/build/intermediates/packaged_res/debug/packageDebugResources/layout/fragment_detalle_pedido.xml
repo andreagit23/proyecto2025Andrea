@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@android:color/white">
+
+    <!-- Imagen del producto -->
+    <ImageView
+        android:id="@+id/imgProductoPedido"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ic_placeholder_pink"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="16dp" />
+
+    <!-- Nombre -->
+    <TextView
+        android:id="@+id/labelNombrePedido"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/nombre"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        app:layout_constraintTop_toBottomOf="@+id/imgProductoPedido"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="24dp" />
+
+    <TextView
+        android:id="@+id/txtNombrePedido"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        app:layout_constraintBaseline_toBaselineOf="@id/labelNombrePedido"
+        app:layout_constraintStart_toEndOf="@id/labelNombrePedido"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginStart="8dp" />
+
+    <!-- Descripción -->
+    <TextView
+        android:id="@+id/labelDescripcionPedido"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/descripcion"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        app:layout_constraintTop_toBottomOf="@id/labelNombrePedido"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:id="@+id/txtDescripcionPedido"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        app:layout_constraintBaseline_toBaselineOf="@id/labelDescripcionPedido"
+        app:layout_constraintStart_toEndOf="@id/labelDescripcionPedido"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginStart="8dp" />
+
+    <!-- Categoría -->
+    <TextView
+        android:id="@+id/labelCategoriaPedido"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/categorias"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        app:layout_constraintTop_toBottomOf="@id/labelDescripcionPedido"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:id="@+id/txtCategoriaPedido"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        app:layout_constraintBaseline_toBaselineOf="@id/labelCategoriaPedido"
+        app:layout_constraintStart_toEndOf="@id/labelCategoriaPedido"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginStart="8dp" />
+
+    <!-- Estado del pedido -->
+    <TextView
+        android:id="@+id/labelEstadoPedido"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/estado_pedido"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        app:layout_constraintTop_toBottomOf="@id/labelCategoriaPedido"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:id="@+id/txtEstadoPedido"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        app:layout_constraintBaseline_toBaselineOf="@id/labelEstadoPedido"
+        app:layout_constraintStart_toEndOf="@id/labelEstadoPedido"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginStart="8dp" />
+
+    <!-- Porcentaje destinado -->
+    <TextView
+        android:id="@+id/labelPorcentajePedido"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/porcentaje_destinado_a_donacion"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        app:layout_constraintTop_toBottomOf="@id/labelEstadoPedido"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:id="@+id/txtPorcentajePedido"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        app:layout_constraintBaseline_toBaselineOf="@id/labelPorcentajePedido"
+        app:layout_constraintStart_toEndOf="@id/labelPorcentajePedido"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginStart="8dp" />
+
+    <!-- Precio total -->
+    <TextView
+        android:id="@+id/labelPrecioTotal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/precioCompras"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        app:layout_constraintTop_toBottomOf="@id/labelPorcentajePedido"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:id="@+id/txtPrecioTotal"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        app:layout_constraintBaseline_toBaselineOf="@id/labelPrecioTotal"
+        app:layout_constraintStart_toEndOf="@id/labelPrecioTotal"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginStart="8dp" />
+
+    <!-- ONG -->
+    <TextView
+        android:id="@+id/labelOngPedido"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ongLabel"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        app:layout_constraintTop_toBottomOf="@id/labelPrecioTotal"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:id="@+id/txtOngPedido"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        app:layout_constraintBaseline_toBaselineOf="@id/labelOngPedido"
+        app:layout_constraintStart_toEndOf="@id/labelOngPedido"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginStart="8dp" />
+
+    <!-- Botón marcar recibido -->
+    <Button
+        android:id="@+id/btnMarcarRecibido"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/marcar_como_recibido"
+        android:backgroundTint="#FF69B4"
+        android:textColor="@android:color/white"
+        app:layout_constraintTop_toBottomOf="@id/labelOngPedido"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="32dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
