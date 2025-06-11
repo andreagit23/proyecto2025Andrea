@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MenuButtonStyle" parent="Widget.MaterialComponents.Button">
+        <item name="android:layout_marginTop">12dp</item>
+        <item name="android:backgroundTint">#FF69B4</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="cornerRadius">32dp</item>
+        <item name="iconTint">#FFFFFF</item>
+        <item name="iconPadding">12dp</item>
+        <item name="android:minHeight">48dp</item>
+    </style>
+</resources>

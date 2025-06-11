@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/loginFragment">
+
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.andrea_murillo.involucrate.ui.auth.LoginFragment"
+        android:label="Login" >
+        <action
+            android:id="@+id/action_login_to_register"
+            app:destination="@id/registroFragment" />
+        <action
+            android:id="@+id/action_login_to_home"
+            app:destination="@id/homeFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/registroFragment"
+        android:name="com.andrea_murillo.involucrate.ui.auth.RegistroFragment"
+        android:label="Registro">
+        <action
+            android:id="@+id/action_registroFragment_to_loginFragment"
+            app:destination="@id/loginFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.andrea_murillo.involucrate.ui.home.HomeFragment"
+        android:label="Home">
+        <action
+            android:id="@+id/action_homeFragment_to_loginFragment"
+            app:destination="@id/loginFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_ventasFragment"
+            app:destination="@id/ventasFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_comprasFragment"
+            app:destination="@id/comprasFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_misPedidosFragment"
+            app:destination="@id/misPedidosFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_monederoFragment"
+            app:destination="@id/monederoFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_ongsFragment"
+            app:destination="@id/ongsFragment" />
+        <action
+            android:id="@+id/action_home_to_editUsuario"
+            app:destination="@id/editUsuarioFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_nuestraInformacionFragment"
+            app:destination="@id/nuestraInformacionFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/ventasFragment"
+        android:name="com.andrea_murillo.involucrate.ui.ventas.VentasFragment"
+        android:label="Ventas">
+        <action
+            android:id="@+id/action_ventas_to_editarProducto"
+            app:destination="@id/detalleProductoVenta" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/detalleProductoVenta"
+        android:name="com.andrea_murillo.involucrate.ui.ventas.DetalleProductoVentaFragment"
+        android:label="Detalle Venta">
+        <argument
+            android:name="productoId"
+            app:argType="long"
+            android:defaultValue="-1L" />
+        <action
+            android:id="@+id/action_editarProducto_to_ventas"
+            app:destination="@id/ventasFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/comprasFragment"
+        android:name="com.andrea_murillo.involucrate.ui.compras.ComprasFragment"
+        android:label="Compras">
+        <action
+            android:id="@+id/action_compras_to_verProducto"
+            app:destination="@id/detalleProductoCompra" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/detalleProductoCompra"
+        android:name="com.andrea_murillo.involucrate.ui.compras.DetalleProductoCompraFragment"
+        android:label="Detalle Compra">
+        <argument
+            android:name="productoId"
+            app:argType="long"
+            android:defaultValue="-1L" />
+        <action
+            android:id="@+id/action_verProducto_to_compras"
+            app:destination="@id/comprasFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/misPedidosFragment"
+        android:name="com.andrea_murillo.involucrate.ui.pedidos.MisPedidosFragment"
+        android:label="Mis Pedidos">
+        <action
+            android:id="@+id/action_pedidos_to_verPedido"
+            app:destination="@id/detallePedido" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/detallePedido"
+        android:name="com.andrea_murillo.involucrate.ui.pedidos.DetallePedidoFragment"
+        android:label="Detalle Pedido">
+        <argument
+            android:name="pedidoId"
+            app:argType="long"
+            android:defaultValue="-1L" />
+        <action
+            android:id="@+id/action_verPedido_to_pedidos"
+            app:destination="@id/misPedidosFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/monederoFragment"
+        android:name="com.andrea_murillo.involucrate.ui.monedero.MonederoFragment"
+        android:label="Monedero">
+        <action
+            android:id="@+id/action_monedero_to_transaccion"
+            app:destination="@id/transaccionFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/transaccionFragment"
+        android:name="com.andrea_murillo.involucrate.ui.monedero.TransaccionFragment"
+        android:label="Transaccion">
+        <argument
+            android:name="monederoId"
+            app:argType="long"
+            android:defaultValue="-1L" />
+        <argument
+            android:name="isIngreso"
+            app:argType="boolean"
+            android:defaultValue="true" />
+        <action
+            android:id="@+id/action_transaccion_to_monedero"
+            app:destination="@id/monederoFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/ongsFragment"
+        android:name="com.andrea_murillo.involucrate.ui.ongs.OngsFragment"
+        android:label="ONGs">
+        <action
+            android:id="@+id/action_ongs_to_detalleOng"
+            app:destination="@id/detalleOngFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/detalleOngFragment"
+        android:name="com.andrea_murillo.involucrate.ui.ongs.DetalleOngFragment"
+        android:label="DetalleONG">
+        <argument android:name="ongId" app:argType="long" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/editUsuarioFragment"
+        android:name="com.andrea_murillo.involucrate.ui.usuario.EditUsuarioFragment"
+        android:label="Editar Usuario">
+        <argument
+            android:name="usuarioId"
+            app:argType="long"
+            android:defaultValue="-1L" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nuestraInformacionFragment"
+        android:name="com.andrea_murillo.involucrate.ui.usuario.NuestraInformacionFragment"
+        android:label="Nuestra Información">
+        <!-- Acción de retorno al home tras cancelar o actualizar -->
+        <action
+            android:id="@+id/action_nuestraInformacion_to_homeFragment"
+            app:destination="@id/homeFragment" />
+    </fragment>
+</navigation>
